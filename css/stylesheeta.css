@@ -62,7 +62,7 @@ footer p{
         "partie6";
     width: 100%;
     margin: auto;
-    height: 350vh;
+    height: 320vh;
 }
 }
 
@@ -78,6 +78,7 @@ p{
     text-align: left;
     font-weight: bold;
     background-color: white;
+    font-size: 2em;
 }
 .t{
     color: #11135D;
